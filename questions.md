@@ -21,6 +21,7 @@ The units are as follows:
 **Answer:**  
 The difference is ~1.85.
 Because noise is added to simulate realistic data.
+
 ---
 
 ## Question 4: After converting the timestamp column, what methods are now available on df['timestamp'].dt?
@@ -69,7 +70,7 @@ As temperature decreases, the soil moisture increases. There are outliers that r
 
 ## Final Challenge: 
 
-**Visualizations**
-![output.png](output.png)
+**Visualizations**  
+![output.png](output.png)  
 **A short paragraph justifying which sensor you believe is faulty**  
-Most outliers are created by sensor B-1, so it's most likely to be the faulty one.
+Most outliers are created by sensor B-1, so it's most likely to be the faulty one.  
