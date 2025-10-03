@@ -2,13 +2,16 @@
 
 ## Question 1: How many rows were generated? How many were expected? Why?
 
-**Answer:** 
+**Answer:** 3605 rows were generated. 
 
 ---
 
 ## Question 2: What appears to be the unit of temperature, soil_moisture, and light_level?
 
-**Answer:**
+**Answer:** The units are as follows:
+- Temperature: degrees Celsius (°C)
+- Soil Moisture: percentage (%)
+- Light Level: lux (lx)
 
 ---
 
